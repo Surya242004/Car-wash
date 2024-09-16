@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935887566465",
+    "project_id": "car-wash-40ca8",
+    "storage_bucket": "car-wash-40ca8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935887566465:android:875969425ba29f32717f80",
+        "android_client_info": {
+          "package_name": "com.example.car"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqZGvV8v9Ttsyvoeth6VF0i_NUPU3ThF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
